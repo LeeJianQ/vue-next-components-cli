@@ -1,0 +1,29 @@
+{
+  "name": "vue-next-components-cli",
+  "version": "1.0.0",
+  "description": "quick create vue-next components by typescript",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeeJianQ/vue-next-components-cli.git"
+  },
+  "keywords": [
+    "vue-next",
+    "node",
+    "typescript"
+  ],
+  "author": "jqlee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeeJianQ/vue-next-components-cli/issues"
+  },
+  "homepage": "https://github.com/LeeJianQ/vue-next-components-cli#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "inquirer": "^7.3.3"
+  }
+}
